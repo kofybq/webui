@@ -1,0 +1,8 @@
+
+{
+    "pattern":"++",
+    "n_paramas":3,
+    "ranges":[[130,10],[40,20],[40,10]],
+    "mutliranges":[[9,1],[9,1]],
+    "random_number_range":[5000000000,500]
+}
